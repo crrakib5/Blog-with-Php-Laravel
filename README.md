@@ -8,13 +8,13 @@
 </p>
 
 ## some screenshots
-@[](https://raw.githubusercontent.com/crrakib5/Blog-with-Php-Laravel/master/Screenshots/2.blog.png)
-@[](https://raw.githubusercontent.com/crrakib5/Blog-with-Php-Laravel/master/Screenshots/all.blog.png)
-@[](https://raw.githubusercontent.com/crrakib5/Blog-with-Php-Laravel/master/Screenshots/search.blog.png)
-@[](https://raw.githubusercontent.com/crrakib5/Blog-with-Php-Laravel/master/Screenshots/search.blog.1..png)
-@[](https://raw.githubusercontent.com/crrakib5/Blog-with-Php-Laravel/master/Screenshots/demo.blog.png)
-@[](https://raw.githubusercontent.com/crrakib5/Blog-with-Php-Laravel/master/Screenshots/all.blog.png)
+![](https://raw.githubusercontent.com/crrakib5/Blog-with-Php-Laravel/master/Screenshots/2.blog.png)
+![](https://raw.githubusercontent.com/crrakib5/Blog-with-Php-Laravel/master/Screenshots/all.blog.png)
+![](https://raw.githubusercontent.com/crrakib5/Blog-with-Php-Laravel/master/Screenshots/search.blog.png)
+![](https://raw.githubusercontent.com/crrakib5/Blog-with-Php-Laravel/master/Screenshots/search.blog.1..png)
+![](https://raw.githubusercontent.com/crrakib5/Blog-with-Php-Laravel/master/Screenshots/demo.blog.png)
+![](https://raw.githubusercontent.com/crrakib5/Blog-with-Php-Laravel/master/Screenshots/all.blog.png)
 ### admin dashboard
-@[](https://raw.githubusercontent.com/crrakib5/Blog-with-Php-Laravel/master/Screenshots/admin.dashboard.png)
+![](https://raw.githubusercontent.com/crrakib5/Blog-with-Php-Laravel/master/Screenshots/admin.dashboard.png)
 ### author dashboard
-@[](https://raw.githubusercontent.com/crrakib5/Blog-with-Php-Laravel/master/Screenshots/author.dashboard.png)
+![](https://raw.githubusercontent.com/crrakib5/Blog-with-Php-Laravel/master/Screenshots/author.dashboard.png)
